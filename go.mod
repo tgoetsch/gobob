@@ -1,3 +1,3 @@
-module github.com/tgoetsch/gobob
+module gobob
 
 go 1.21.1
